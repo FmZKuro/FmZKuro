@@ -2,7 +2,7 @@
 - Atualmente cursando informática Biomédica-UFPR
 -📖 Aprendi html e css, C
 - mateusfrancomendes@gmail.com
--Alguns dos meus projetos:
+- Alguns dos meus projetos:
 
 Projeto clone netflix:https://github.com/FmZKuro/Projeto-CloneNetflix-Steam
 Jogo da cobrinha em html:https://github.com/FmZKuro/Projeto-jogo-da-cobrinha
